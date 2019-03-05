@@ -1,4 +1,6 @@
 # hello-world
 my first repository
-learn GIThub
+learn GitHub
+from scratch
+
 
